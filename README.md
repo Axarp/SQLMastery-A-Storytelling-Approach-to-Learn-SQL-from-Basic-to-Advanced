@@ -46,7 +46,7 @@ Open your MySQL CLI or GUI (like MySQL Workbench).
 Copy-paste and run the script block by block to follow the story.
 Make sure your MySQL server has permissions enabled for JSON, FULLTEXT, and PROCEDURE.
 
-📝 PostgreSQL users:
+PostgreSQL users:
 Replace USE database; with \c database_name
 Full-text search and JSON syntax may vary slightly.
 
