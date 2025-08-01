@@ -19,14 +19,23 @@ Practical MySQL Syntax (with PostgreSQL notes)
 Each SQL concept is represented through a real-world company scenario:
 
 📦 Create a company database & employee table
+
 👨‍💼 Hire, update, fire employees
+
 🏢 Manage departments and salaries
+
 🛠 Modify structures as the company scales
+
 🔐 Grant or revoke intern permissions
+
 📈 Generate salary reports & rankings
+
 🔄 Use transactions, CTEs, and window functions
+
 🧾 Store product data in JSON and extract it
+
 🔍 Implement full-text search for blog articles
+
 🗂 Partition large tables for scalable systems
 
 ### How to Run
