@@ -4,10 +4,15 @@ This storytelling SQL script takes you through 40+ essential SQL concepts using 
 
 ## What You'll Learn
 SQL Concepts (DDL, DML, DCL, TCL)
+
 Views, CTEs, Window Functions
+
 Triggers, Procedures, Transactions
+
 Full-Text Search, JSON Handling
+
 Indexing, Ranking, Partitioning
+
 Practical MySQL Syntax (with PostgreSQL notes)
 
 ## Storyline Highlights
